@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0217-contains-duplicate](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0268-missing-number) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0268-missing-number) |
+## String
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
+## Prefix Sum
+|  |
+| ------- |
+| [2691-count-vowel-strings-in-ranges](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 <!---LeetCode Topics End-->
