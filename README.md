@@ -94,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
