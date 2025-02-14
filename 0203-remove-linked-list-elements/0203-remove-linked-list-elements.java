@@ -13,16 +13,18 @@ class Solution {
         ListNode tptr=head,tptr1=tptr;
         while(tptr!=null){
             
-            if(tptr.val==val && tptr==head){
-                head=head.next;
-                tptr = head;
-
+            if(tptr.val==val){
+                if(tptr==head){
+                    head=head.next;
+                    tptr = head;
+                }
+                else{
+                    tptr1.next=tptr.next;
+                    tptr=tptr1.next;
+                }
             }
-            else if(tptr.val==val){
-                tptr1.next=tptr.next;
-                tptr=tptr1.next;
-
-            }else{
+            
+            else{
                 tptr1=tptr;
                 tptr=tptr.next;
             }
