@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1502-construct-k-palindrome-strings](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1666-make-the-string-great](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1666-make-the-string-great) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1666-make-the-string-great](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1666-make-the-string-great) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Linked List
 |  |
