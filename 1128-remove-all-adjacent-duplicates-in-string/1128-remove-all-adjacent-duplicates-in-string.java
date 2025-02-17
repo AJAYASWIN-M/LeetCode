@@ -6,15 +6,13 @@ class Solution {
             if(stack.isEmpty()){
                 stack.push(a);
             }
-            else{
-                if(stack.peek()==a){
+            else if(stack.peek()==a){
                     stack.pop();
                 }
                 else{
                     stack.push(a);
                 }
 
-            }
 
         }
         String y="";
