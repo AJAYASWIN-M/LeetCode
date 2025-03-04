@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0682-baseball-game) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 ## String
