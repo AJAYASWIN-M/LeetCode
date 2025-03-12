@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0136-single-number) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0268-missing-number) |
 | [0682-baseball-game](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0682-baseball-game) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
