@@ -145,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0682-baseball-game](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0682-baseball-game) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
