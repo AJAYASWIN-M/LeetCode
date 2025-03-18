@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2292-counting-words-with-a-given-prefix](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2465-shifting-letters-ii) |
+| [2478-longest-nice-subarray](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2478-longest-nice-subarray) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/AJAYASWIN-M/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0268-missing-number) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2478-longest-nice-subarray](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2478-longest-nice-subarray) |
 ## String
 |  |
 | ------- |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
+## Sliding Window
+|  |
+| ------- |
+| [2478-longest-nice-subarray](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
