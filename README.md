@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0268-missing-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/AJAYASWIN-M/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/AJAYASWIN-M/LeetCode/tree/master/0242-valid-anagram) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/AJAYASWIN-M/LeetCode/tree/master/1524-string-matching-in-an-array) |
